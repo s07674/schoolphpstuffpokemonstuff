@@ -1,0 +1,67 @@
+@font-face {
+    src: url(legendary/Pokemon\ Hollow.ttf);
+    font-family: poke ;
+    }
+@font-face {
+    src: url(legendary/Gemini\ Moon.otf);
+    font-family: gem ;
+
+}
+
+@font-face {
+    src: url(legendary/peach_days/Peach\ Days.otf);
+    font-family: peach ;
+
+}
+
+
+
+
+
+
+
+.paragraph {
+    line-height: 62px;
+    font-size: 50px;
+    font-family: poke;
+}
+
+.paragraph2
+{
+    font-size: 35px;
+    font-family: gem ;
+
+}
+
+.paragraph3
+{
+    font-size: small;
+    font-family: gem ;
+}
+
+.doof
+{
+    line-height: 62px;
+    font-size: 50px;
+    font-family: peach;
+}
+h4 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+label {
+    color: #888;
+    font-size: large;
+    padding: 10px;
+}
+h1 {
+    text-decoration-line: underline;
+    text-decoration-style: wavy; /* this is default */
+}
+form{
+    width: 500px;
+    border: 2px solid#ccc;
+    padding: 30px;
+    background: #fff;
+    border-radius: 15px;
+}
